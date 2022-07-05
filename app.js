@@ -1,0 +1,20 @@
+// var firstName = prompt("Enter your frst name");
+// var lastName = prompt("Enter your last name");
+// var fullName = firstName + " " + lastName;
+// alert("Welcome " + fullName);
+// var mobileModel = prompt("Enter your favorite mobile model");
+// document.write("<h1> Your favorite mobile model is " + mobileModel + "</h1>");
+// document.write("<h1> The length of string is " + mobileModel.length + "</h1>");
+// var countryName = "Pakistan";
+// var indexOfN = "pakistan".indexOf("n")
+// console.log(indexOfN);
+// document.write("<h1> String is: " + countryName + "</h1>");
+// document.write("<h2> Index of 'n' is: " + indexOfN + "</h2>");
+// var a = "Hello World";
+// var lastIndexOfL = a.lastIndexOf("l");
+// document.write("<h1> String is: " + a + "</h1>");
+// document.write("<h1> Last Index of 'l' is: " + lastIndexOfL + "</h1>");
+// var a = "Pakistan";
+// var b = a.charAt(3);
+// document.write("<h1> String is: " + a + "</h1>");
+// document.write("<h1> Character at Index 3 is: " + b + "</h1>");
